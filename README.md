@@ -63,3 +63,7 @@ CALL verificar_ou_criar_token('12345');
 -Controle rígido de Admin e Síndico
 -Auditoria completa de acesso
 -Testes rápidos com dados iniciais
+
+## 📄 Licença
+Este projeto está licenciado sob a Licença MIT.  
+Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
